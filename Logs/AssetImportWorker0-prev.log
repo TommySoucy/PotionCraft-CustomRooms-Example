@@ -1,0 +1,2383 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32640 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity versions\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Steam/steamapps/common/Potion Craft/Mod Dev/Unity/PotionCraftAssets
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53242
+Successfully changed project path to: F:/Steam/steamapps/common/Potion Craft/Mod Dev/Unity/PotionCraftAssets
+F:/Steam/steamapps/common/Potion Craft/Mod Dev/Unity/PotionCraftAssets
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path E:/Unity versions/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Steam/steamapps/common/Potion Craft/Mod Dev/Unity/PotionCraftAssets/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24348 MB
+    Driver:   30.0.14.7196
+Initialize mono
+Mono path[0] = 'E:/Unity versions/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity versions/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity versions/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity versions/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001416 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2245.
+Total: 2.911200 ms (FindLiveObjects: 0.297200 ms CreateObjectMapping: 0.057400 ms MarkObjects: 2.374000 ms  DeleteObjects: 0.180900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65a87385886ae3b8250cd9427a629b0') in 0.119570 seconds
+  Import took 0.123263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 909.228039 seconds.
+  path: Assets/Sprites/StorageCellar_Background.png
+  artifactKey: Guid(ddfbd3907fccb064e9bd86d645c3ef18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Background.png using Guid(ddfbd3907fccb064e9bd86d645c3ef18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24af8ee10a4e6a1292dc5f6d97947ec3') in 0.052773 seconds
+  Import took 0.056915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Sprites/StorageCellar_BottomCauldron.png
+  artifactKey: Guid(2efddba227a457a42b0d371bd8b1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_BottomCauldron.png using Guid(2efddba227a457a42b0d371bd8b1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8755103520b80e40e7d7aa73180eeb3e') in 0.010960 seconds
+  Import took 0.014313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Sprites/StorageCellar_RandomPieces.png
+  artifactKey: Guid(bec30fb771e3779429837216fb0cd1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_RandomPieces.png using Guid(bec30fb771e3779429837216fb0cd1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfde0d154ea60fa75a8bc2c58f4bfb8c') in 0.012842 seconds
+  Import took 0.016099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Sprites/StorageCellar_Ground.png
+  artifactKey: Guid(c50085b6f133f1a429be1cfba62ae582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Ground.png using Guid(c50085b6f133f1a429be1cfba62ae582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd338cab3bbaf6b7d332c6224f349e1ed') in 0.011171 seconds
+  Import took 0.014311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Sprites/StorageCellar_HeartFlask.png
+  artifactKey: Guid(ab3445f66e0abd14e8630707f7a11f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_HeartFlask.png using Guid(ab3445f66e0abd14e8630707f7a11f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d2002dc963cb92f28726f8dcea737a') in 0.012074 seconds
+  Import took 0.015298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Sprites/StorageCellar_Mortar.png
+  artifactKey: Guid(693221025f8d53c4087570e36b558f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Mortar.png using Guid(693221025f8d53c4087570e36b558f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836d1c19dbc887d2b130e3aa311e20c1') in 0.013117 seconds
+  Import took 0.016431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Sprites/StorageCellar_BarrelCork.png
+  artifactKey: Guid(7021fa78512d60c4b8bbcbd147b0e1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_BarrelCork.png using Guid(7021fa78512d60c4b8bbcbd147b0e1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d153534c2294cb85a12988aa50eb71c') in 0.015470 seconds
+  Import took 0.018688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sprites/StorageCellar_RightShelf.png
+  artifactKey: Guid(1122c19a4a883a84ebb5c848b51d8591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_RightShelf.png using Guid(1122c19a4a883a84ebb5c848b51d8591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba73e27ce2cbf4a084cb600dab0fc737') in 0.013060 seconds
+  Import took 0.016348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Sprites/StorageCellar_OtherShelves.png
+  artifactKey: Guid(4f1b859f854bd9649a2614d15e4333ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_OtherShelves.png using Guid(4f1b859f854bd9649a2614d15e4333ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7627e5f8e1b9cf44c850233fe14d391f') in 0.015147 seconds
+  Import took 0.018307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Sprites/StorageCellar_UnderWeb.png
+  artifactKey: Guid(e96a67638d53f5044bd216dc1a92b428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_UnderWeb.png using Guid(e96a67638d53f5044bd216dc1a92b428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1eda0eeec368f0e376579f8e86fdef7') in 0.016944 seconds
+  Import took 0.020355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/StorageCellar_BrokenPiece.png
+  artifactKey: Guid(e61d8308135797c4e844f3ad573df1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_BrokenPiece.png using Guid(e61d8308135797c4e844f3ad573df1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff6d49b3ccd9152b5ab5a166f911df09') in 0.011416 seconds
+  Import took 0.014702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/StorageCellar_BarrelWithStand.png
+  artifactKey: Guid(5ed409a76da39fe4582f6323cac8c1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_BarrelWithStand.png using Guid(5ed409a76da39fe4582f6323cac8c1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a969a00bbf7a6758e847670227e32191') in 0.011502 seconds
+  Import took 0.014792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Sprites/StorageCellar_GroundShelf.png
+  artifactKey: Guid(a7c8487623ecb8346a9979503dbb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_GroundShelf.png using Guid(a7c8487623ecb8346a9979503dbb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c9c05561deb0fa122b0db141f3a2d0') in 0.012022 seconds
+  Import took 0.015109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Sprites/StorageCellar_Spoon.png
+  artifactKey: Guid(62a55211471df1a4888f9e0d1f673dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Spoon.png using Guid(62a55211471df1a4888f9e0d1f673dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313e87c5c5cd8b39294c0dc1d3d109f5') in 0.013605 seconds
+  Import took 0.016988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sprites/StorageCellar_Rubble.png
+  artifactKey: Guid(2cb3ae1e3d3e4e043b0fdb9da22a3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Rubble.png using Guid(2cb3ae1e3d3e4e043b0fdb9da22a3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c74f0fbea606e75274aea6138a9eb5e') in 0.014039 seconds
+  Import took 0.017875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sprites/StorageCellar_RandomTubes.png
+  artifactKey: Guid(a96b66deb8f97a8479cd99340cac6b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_RandomTubes.png using Guid(a96b66deb8f97a8479cd99340cac6b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a264d0fcc9c2c5d75a2627769c601923') in 0.013171 seconds
+  Import took 0.016480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/StorageCellar_Holders.png
+  artifactKey: Guid(0925d011d4d676f44bca8eebf9776698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Holders.png using Guid(0925d011d4d676f44bca8eebf9776698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6f493a878f8663d364c7a71b41eec3') in 0.015969 seconds
+  Import took 0.019503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Sprites/StorageCellar_Roots.png
+  artifactKey: Guid(cec7ed79613d3894bbb3ac3c55ea4256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_Roots.png using Guid(cec7ed79613d3894bbb3ac3c55ea4256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43627f780bac878b4fef96f3f25f47c4') in 0.012063 seconds
+  Import took 0.015279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sprites/StorageCellar_ShelfStuff.png
+  artifactKey: Guid(1ff3b32dad1134b4f9e7a5a72d2ff65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_ShelfStuff.png using Guid(1ff3b32dad1134b4f9e7a5a72d2ff65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5299571fcc37b17286133fc9314aada') in 0.015141 seconds
+  Import took 0.018507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Sprites/StorageCellar_SpiralFlask.png
+  artifactKey: Guid(d1576be040aab6a40b5688e536efaa82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_SpiralFlask.png using Guid(d1576be040aab6a40b5688e536efaa82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff345d4076e0f5bb40f69351fb0f2ea0') in 0.011698 seconds
+  Import took 0.014957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/StorageCellar_OtherScrolls.png
+  artifactKey: Guid(e0937916e0d67d4449432f6da0abb69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_OtherScrolls.png using Guid(e0937916e0d67d4449432f6da0abb69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891ce5f8f8ea60edf68e0a1f8ce6e7b4') in 0.015116 seconds
+  Import took 0.018292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Sprites/StorageCellar_MiddleWeb.png
+  artifactKey: Guid(df32e112725dcf54ab2a1dc2f9c5c6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_MiddleWeb.png using Guid(df32e112725dcf54ab2a1dc2f9c5c6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8664f84c5795b8034cc63a135dbe1c') in 0.012937 seconds
+  Import took 0.016387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Sprites/StorageCellar_HolderFlask.png
+  artifactKey: Guid(503993691b1fc524091a4719664f922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar_HolderFlask.png using Guid(503993691b1fc524091a4719664f922e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446aca97a0a4b4ca34b7ac775797718a') in 0.014197 seconds
+  Import took 0.017659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.295065 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553306404da8852dae613fdd176d235a') in 0.107189 seconds
+  Import took 0.115959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.696343 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c9bdb23111199bf0d9f9ab537afdfb') in 0.074254 seconds
+  Import took 0.083136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.208968 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf934f6d586dbe50a0b5e1b3914dd38') in 0.070912 seconds
+  Import took 0.080727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.731346 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9630b4f38f82777486ffe5fbf0773be') in 0.061050 seconds
+  Import took 0.070023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.003258 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1b549efda547a5411bd1d4f3de527e') in 0.061130 seconds
+  Import took 0.069942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.362271 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7201667124cb282aea84bc7607122f9c') in 0.060766 seconds
+  Import took 0.069741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.824037 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b38549bc7c3cec514ae0704ba978b9') in 0.068597 seconds
+  Import took 0.077654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.551555 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd77e3a35afa5fef2b5023873e3fa557') in 0.077583 seconds
+  Import took 0.086584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.383573 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f68aceeb4551165998d56c1e7cfea5') in 0.062040 seconds
+  Import took 0.070946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.565732 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9b70f0bf687bd0a87cd2c956ddc8dc') in 0.067247 seconds
+  Import took 0.076209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.191495 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bffd962d7df29a2a3f148b618c7ecd') in 0.063608 seconds
+  Import took 0.072590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.758918 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa79f0211aaa861eeef34ee4994a0db1') in 0.060465 seconds
+  Import took 0.069278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.412851 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549d5a72cd5c7adef86b8866b6507d3f') in 0.059141 seconds
+  Import took 0.067705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.850057 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c4f1c9a3754e530a40b4518cd7efd9') in 0.073543 seconds
+  Import took 0.082146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.177986 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30f8e77dbbbfba2121548b53edfd20e') in 0.057277 seconds
+  Import took 0.065866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.765705 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699e881758c3ccf58dea290a8d391bd5') in 0.057915 seconds
+  Import took 0.066463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.385691 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90347f30ae05b9d82e2b38ee8139269') in 0.057508 seconds
+  Import took 0.065965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.151438 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a177dce7002599a62637debcc18bf3') in 0.055629 seconds
+  Import took 0.064278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.389808 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85946d07e02f2167463dd1290d19a664') in 0.056184 seconds
+  Import took 0.064612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.408179 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fabe4959925e21e7f2b4117190de35f5') in 0.060477 seconds
+  Import took 0.069031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.971568 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6451bca95862608e5207ca259dbcc5b') in 0.057336 seconds
+  Import took 0.066036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.546559 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4213d43baafae2323188d9a3c09d37ec') in 0.056870 seconds
+  Import took 0.065347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.546018 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcfa4a6f0f87a02fae5eb26b50a573d') in 0.057208 seconds
+  Import took 0.065795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.369140 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa1777e8947b23dcb54a6794740d5da') in 0.063541 seconds
+  Import took 0.071987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.989761 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338a1f47cf5c9f0e798c089c66e0ff4d') in 0.057054 seconds
+  Import took 0.065900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.142512 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29101b0080a853287acd17fbb47ae26b') in 0.057681 seconds
+  Import took 0.066396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.556149 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d1c77b6ce9609e659aa25ccf0d7469') in 0.058909 seconds
+  Import took 0.067563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.185776 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24b7099ddb20b011b29e1c50866a3dc') in 0.064713 seconds
+  Import took 0.073233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.634963 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6fe43cb5b1dea93e34ea713e53520ec') in 0.056012 seconds
+  Import took 0.064529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.757569 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a531de7d430aaa96fe09e050e50982d0') in 0.058663 seconds
+  Import took 0.067249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.430157 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84fec9dca17ce22d24768cd71743677') in 0.061720 seconds
+  Import took 0.070272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.393061 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9550dfc8a3f9952534da0d274cfd520') in 0.055688 seconds
+  Import took 0.064251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.174714 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42be35c35f7d362a333633fc95885d1a') in 0.057038 seconds
+  Import took 0.065355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.157031 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0099a540cec360dfe0736082a39a88d8') in 0.059182 seconds
+  Import took 0.067657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524292 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb5bd580c5aa438ed102b24637fae63') in 0.059763 seconds
+  Import took 0.068322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.177804 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b08a0d1d02823b983f48d8c90096a1b') in 0.057086 seconds
+  Import took 0.065630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.140548 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01057f74f18b7f11c8dcb3b97824203') in 0.059967 seconds
+  Import took 0.068601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.247541 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3dbca832342529e8228ac143ede0616') in 0.059520 seconds
+  Import took 0.068142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.546374 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a6d6e14e2c122ffb1e09dff5614155') in 0.059921 seconds
+  Import took 0.068681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.550441 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c3cf1e27c15b721a39d6b31348eee8') in 0.058112 seconds
+  Import took 0.066696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.604351 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa8ac0c2c9e6eca52876e102eb1c265') in 0.058540 seconds
+  Import took 0.066868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.552661 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b41e8c44ee639af49be09a32674ffe1') in 0.058841 seconds
+  Import took 0.067505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.611250 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30359c6c826255a134839e95e4ee09ea') in 0.055850 seconds
+  Import took 0.064324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 932.921638 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682f63739158a0f6d6050011931d189a') in 0.061426 seconds
+  Import took 0.070212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.799695 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d651dcf1bd864ca74caee982f93f7e') in 0.057445 seconds
+  Import took 0.065767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.740734 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa710f522e2c7da3d9e599988ab1273') in 0.057039 seconds
+  Import took 0.065562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.496137 seconds.
+  path: Assets/Sprites/Vertical Room Divider.png
+  artifactKey: Guid(16422241360b5054783c83364aeaa9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vertical Room Divider.png using Guid(16422241360b5054783c83364aeaa9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad995b62a1a7cc5c133ed75a04fb3b8') in 0.010483 seconds
+  Import took 0.014179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.553145 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8215d35e36c5cf033fa4da8a4dd1816') in 0.058213 seconds
+  Import took 0.067101 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.5 MB.
+System memory in use after: 52.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 33.867900 ms (FindLiveObjects: 0.294300 ms CreateObjectMapping: 0.049500 ms MarkObjects: 33.387700 ms  DeleteObjects: 0.134000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 329.976719 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fc10e27b117ae6f7b762c3c0c7fe19') in 0.066753 seconds
+  Import took 0.075902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.169445 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a685df6c6ea347153929c5a9226c61bc') in 0.064531 seconds
+  Import took 0.073621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.747280 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0628f0778abbfd4a11d2f70a1dbafd0b') in 0.059338 seconds
+  Import took 0.068112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.955932 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837aa0d945ed88f72bd088e4b3686475') in 0.063267 seconds
+  Import took 0.072218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.417884 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d81ea302942adf3bc7b60db18a19c5') in 0.061663 seconds
+  Import took 0.070816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.978062 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c198f72d099d3b5797336856242e6eb') in 0.064077 seconds
+  Import took 0.073175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.333621 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61cf411bebdb61d71930474546e0011a') in 0.061239 seconds
+  Import took 0.070201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.150981 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010e371c5adf3acac6101cffa84ff05d') in 0.065093 seconds
+  Import took 0.073873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.531410 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baca01cd055172b69e751a4fabbc62b4') in 0.062550 seconds
+  Import took 0.071509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.768041 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7de0a1126d5ec16925df15ff33b2aee') in 0.058862 seconds
+  Import took 0.067889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.763629 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f39d7b06251e307a1c7a80d52b8b831') in 0.061413 seconds
+  Import took 0.069683 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.6 MB.
+System memory in use after: 52.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 3.504200 ms (FindLiveObjects: 0.302800 ms CreateObjectMapping: 0.056100 ms MarkObjects: 3.005300 ms  DeleteObjects: 0.138400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11615.236939 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70907d7d4d68beb4b409cae7f36bbcdb') in 0.126289 seconds
+  Import took 0.160048 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.6 MB.
+System memory in use after: 52.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 22.744200 ms (FindLiveObjects: 0.315600 ms CreateObjectMapping: 0.051000 ms MarkObjects: 22.151300 ms  DeleteObjects: 0.224200 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.7 MB.
+System memory in use after: 52.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 3.464500 ms (FindLiveObjects: 0.351800 ms CreateObjectMapping: 0.052900 ms MarkObjects: 2.910800 ms  DeleteObjects: 0.147100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48960.914247 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Hover.png
+  artifactKey: Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Hover.png using Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb95670a032b9f0560cc367ec97d4c93') in 0.041548 seconds
+  Import took 0.073425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Idle.png
+  artifactKey: Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Idle.png using Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bb862c2980ba43761c82c330b1a028') in 0.011947 seconds
+  Import took 0.015648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Idle.png
+  artifactKey: Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Idle.png using Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156dc0236c74603f83edae1f5dbc251f') in 0.020510 seconds
+  Import took 0.024189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Idle.png
+  artifactKey: Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Idle.png using Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eecf39472f4eb35690ab2b1e4398e5c') in 0.012253 seconds
+  Import took 0.015362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Idle.png
+  artifactKey: Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Idle.png using Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfb0d1f88c9f9200e46f7563340d690') in 0.012368 seconds
+  Import took 0.015660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Hover.png
+  artifactKey: Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Hover.png using Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa20320276ab55bfd7afc6dad38aab2') in 0.013551 seconds
+  Import took 0.017387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Hover.png
+  artifactKey: Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Hover.png using Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7cfc4d459511a4e805473de75fc09d') in 0.011568 seconds
+  Import took 0.014812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Hover.png
+  artifactKey: Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Hover.png using Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207e9fc6dbfc7f471444e88ef3053c79') in 0.009658 seconds
+  Import took 0.012885 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.1 MB.
+System memory in use after: 53.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2261.
+Total: 21.235700 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.052600 ms MarkObjects: 20.694800 ms  DeleteObjects: 0.152300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.158749 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Idle.png
+  artifactKey: Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Idle.png using Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a587e9a86c95849a4a301d2cb1e7dc48') in 0.014191 seconds
+  Import took 0.018059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001053 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Hover.png
+  artifactKey: Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Hover.png using Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1dbcdf673909a2d527f62a7e8edb7ed') in 0.018223 seconds
+  Import took 0.021682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Idle.png
+  artifactKey: Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Idle.png using Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e325ff7a118eb46ff1959fc6a49f76d6') in 0.011059 seconds
+  Import took 0.014964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Idle.png
+  artifactKey: Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Idle.png using Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e27bee0b34f2342dd236a0d35e3ac57') in 0.011354 seconds
+  Import took 0.014851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Idle.png
+  artifactKey: Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Idle.png using Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622347e0d40f14a51df313f7096fb70e') in 0.011111 seconds
+  Import took 0.015261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Hover.png
+  artifactKey: Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Hover.png using Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21989a038a3a82863aebecc4d0914c8') in 0.017138 seconds
+  Import took 0.020802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Hover.png
+  artifactKey: Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Hover.png using Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d2d6b606c0d630e854ac9fa2966caf') in 0.010847 seconds
+  Import took 0.014298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Hover.png
+  artifactKey: Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Hover.png using Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356f183c9b317df9ff33a9a37152606c') in 0.010364 seconds
+  Import took 0.013643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16145.695533 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Hover 1.png
+  artifactKey: Guid(2f59f465522fde54c946b0ab2ca4da8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Hover 1.png using Guid(2f59f465522fde54c946b0ab2ca4da8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d8d568ba7656eb6b783c6a13bd8a99') in 0.035464 seconds
+  Import took 0.063285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Idle 1.png
+  artifactKey: Guid(92dd86f62a5942548b26870e71a55941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Idle 1.png using Guid(92dd86f62a5942548b26870e71a55941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee48fb99cb3b88b89b45fc1135cf147') in 0.010650 seconds
+  Import took 0.013959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.327516 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Hover 1.png
+  artifactKey: Guid(f736e99bf4449e4438a5aed54d01d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Hover 1.png using Guid(f736e99bf4449e4438a5aed54d01d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087b4f8d028e87d540feb86026de683e') in 0.012178 seconds
+  Import took 0.015876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Hover 1.png
+  artifactKey: Guid(1ef57900c0feecf448e5a0b739d754a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Hover 1.png using Guid(1ef57900c0feecf448e5a0b739d754a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa0d58fcc08aced8c286ba7110dcbc1') in 0.010755 seconds
+  Import took 0.013943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Idle 1.png
+  artifactKey: Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Idle 1.png using Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5315a61e84efefb1f313da2d7edb92fa') in 0.013403 seconds
+  Import took 0.016930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Idle 1.png
+  artifactKey: Guid(dceae426b284def42bdb93aad9637581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Idle 1.png using Guid(dceae426b284def42bdb93aad9637581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98efc2bf99bf34ade7b17458a5a2d682') in 0.010339 seconds
+  Import took 0.014034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Idle 1.png
+  artifactKey: Guid(e1384ba5ddbeb914aae43d54b1b9576b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Idle 1.png using Guid(e1384ba5ddbeb914aae43d54b1b9576b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ad2968e8db1871c32d6279ff46acf0') in 0.011509 seconds
+  Import took 0.015175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Hover 1.png
+  artifactKey: Guid(5000ac1bc173dac4ebbc60182097c9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Hover 1.png using Guid(5000ac1bc173dac4ebbc60182097c9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b2d277849f686639e599fc8af80828') in 0.010057 seconds
+  Import took 0.013135 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2261.
+Total: 19.787500 ms (FindLiveObjects: 0.304500 ms CreateObjectMapping: 0.049000 ms MarkObjects: 19.280700 ms  DeleteObjects: 0.151100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.166516 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Hover 1.png
+  artifactKey: Guid(5000ac1bc173dac4ebbc60182097c9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Hover 1.png using Guid(5000ac1bc173dac4ebbc60182097c9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1854b5ce9de57fda5b7c2dcac4a3628c') in 0.011112 seconds
+  Import took 0.014966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003594 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Hover 1.png
+  artifactKey: Guid(f736e99bf4449e4438a5aed54d01d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Hover 1.png using Guid(f736e99bf4449e4438a5aed54d01d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a25fe0ade246edacd79f3ee9e6de55') in 0.008674 seconds
+  Import took 0.012090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Hover 1.png
+  artifactKey: Guid(1ef57900c0feecf448e5a0b739d754a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Hover 1.png using Guid(1ef57900c0feecf448e5a0b739d754a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96af27b7083958e1cd16d595dd3cefd') in 0.009084 seconds
+  Import took 0.012854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Idle 1.png
+  artifactKey: Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Idle 1.png using Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12b7c1ee8be1c59eaf6e5f222ccd8cd') in 0.009235 seconds
+  Import took 0.012894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Sprites/NavigationButton_Down_Idle 1.png
+  artifactKey: Guid(dceae426b284def42bdb93aad9637581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Down_Idle 1.png using Guid(dceae426b284def42bdb93aad9637581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27e76a5d3b9f3445fc0b65e3be12534') in 0.008766 seconds
+  Import took 0.012394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Sprites/NavigationButton_Right_Idle 1.png
+  artifactKey: Guid(e1384ba5ddbeb914aae43d54b1b9576b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Right_Idle 1.png using Guid(e1384ba5ddbeb914aae43d54b1b9576b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6b180011082c0a252a115a04dfcf99') in 0.008346 seconds
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sprites/NavigationButton_Left_Idle 1.png
+  artifactKey: Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Left_Idle 1.png using Guid(94a3cd6d4798ca6479c743d4ffcf45e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12b7c1ee8be1c59eaf6e5f222ccd8cd') in 0.010222 seconds
+  Import took 0.013685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Idle 1.png
+  artifactKey: Guid(92dd86f62a5942548b26870e71a55941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Idle 1.png using Guid(92dd86f62a5942548b26870e71a55941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d808fd5cb6eda6d80bc87d844525663') in 0.008313 seconds
+  Import took 0.011590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Sprites/NavigationButton_Up_Hover 1.png
+  artifactKey: Guid(2f59f465522fde54c946b0ab2ca4da8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NavigationButton_Up_Hover 1.png using Guid(2f59f465522fde54c946b0ab2ca4da8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c11997953e419bac41426e7db3e2d7') in 0.008441 seconds
+  Import took 0.011698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.441649 seconds.
+  path: Assets/Sprites/StorageCellar
+  artifactKey: Guid(14b206ac161412e44a463e2f43e16cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar using Guid(14b206ac161412e44a463e2f43e16cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1f656592fd9b6c5d13797e0112aeb2') in 0.002394 seconds
+  Import took 0.006283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.919107 seconds.
+  path: Assets/Sprites/CustomRooms
+  artifactKey: Guid(5ea38d33fb4b09446a196b9a50c71e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms using Guid(5ea38d33fb4b09446a196b9a50c71e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e8d34e0ce0ee4b686eefb7897cebaa') in 0.002888 seconds
+  Import took 0.006744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.861581 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Down_Hover.png
+  artifactKey: Guid(d232809f70a296b4092002c70be46dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Down_Hover.png using Guid(d232809f70a296b4092002c70be46dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5f0dcfab52dc5824fb0d532fbcf34e') in 0.018947 seconds
+  Import took 0.022724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Right_Hover.png
+  artifactKey: Guid(5db245bffd7a8d648bbf14c1cb19d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Right_Hover.png using Guid(5db245bffd7a8d648bbf14c1cb19d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8031d11ee932e8d5ca73eb23b6985217') in 0.011893 seconds
+  Import took 0.015719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Down_Idle.png
+  artifactKey: Guid(7e07583498b089b4a8a78fbbf4a724f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Down_Idle.png using Guid(7e07583498b089b4a8a78fbbf4a724f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590ab0b198b6a59d6a27f31eb367dfd6') in 0.015963 seconds
+  Import took 0.019177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Left_Hover.png
+  artifactKey: Guid(1cff894291cc3f9429aa5331fc2dd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Left_Hover.png using Guid(1cff894291cc3f9429aa5331fc2dd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e51ea26c05615b18018503cf49b458') in 0.017697 seconds
+  Import took 0.020989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Left_Idle.png
+  artifactKey: Guid(65038361ada97d94da999bd940e3c1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Left_Idle.png using Guid(65038361ada97d94da999bd940e3c1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c4c10885357f13def53ce74f10f94f') in 0.014966 seconds
+  Import took 0.018592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Up_Idle.png
+  artifactKey: Guid(885bf82afdeb5bc42870cf85df5fefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Up_Idle.png using Guid(885bf82afdeb5bc42870cf85df5fefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab704be3ab599237dbc83908f5323402') in 0.014101 seconds
+  Import took 0.017974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Right_Idle.png
+  artifactKey: Guid(c5fa9edf7b2fe7948bfe0aa960ecead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Right_Idle.png using Guid(c5fa9edf7b2fe7948bfe0aa960ecead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad24d7b195cbaa6f2b71237032525951') in 0.011021 seconds
+  Import took 0.014591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png
+  artifactKey: Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png using Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c47956e74d2a5c067911a39de08ce2') in 0.017542 seconds
+  Import took 0.021181 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2261.
+Total: 3.260300 ms (FindLiveObjects: 0.306800 ms CreateObjectMapping: 0.050400 ms MarkObjects: 2.754600 ms  DeleteObjects: 0.146800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.972237 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Left_Idle.png
+  artifactKey: Guid(65038361ada97d94da999bd940e3c1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Left_Idle.png using Guid(65038361ada97d94da999bd940e3c1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c8283fba0f037c758ad570a7278c5f') in 0.017058 seconds
+  Import took 0.021436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Right_Hover.png
+  artifactKey: Guid(5db245bffd7a8d648bbf14c1cb19d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Right_Hover.png using Guid(5db245bffd7a8d648bbf14c1cb19d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149ae591365a5ee22ea38f7183cc3214') in 0.011118 seconds
+  Import took 0.014923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Down_Idle.png
+  artifactKey: Guid(7e07583498b089b4a8a78fbbf4a724f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Down_Idle.png using Guid(7e07583498b089b4a8a78fbbf4a724f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572d781ca79da1121f13131709b6b759') in 0.013827 seconds
+  Import took 0.017072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Left_Hover.png
+  artifactKey: Guid(1cff894291cc3f9429aa5331fc2dd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Left_Hover.png using Guid(1cff894291cc3f9429aa5331fc2dd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc758f24e86024223d56f60218758f5d') in 0.012527 seconds
+  Import took 0.015810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Down_Hover.png
+  artifactKey: Guid(d232809f70a296b4092002c70be46dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Down_Hover.png using Guid(d232809f70a296b4092002c70be46dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb063828e9b65590393d0e3a320a02f9') in 0.014561 seconds
+  Import took 0.017793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Up_Idle.png
+  artifactKey: Guid(885bf82afdeb5bc42870cf85df5fefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Up_Idle.png using Guid(885bf82afdeb5bc42870cf85df5fefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e250c36b1fa01998cdefe97c17821b46') in 0.024249 seconds
+  Import took 0.028201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Right_Idle.png
+  artifactKey: Guid(c5fa9edf7b2fe7948bfe0aa960ecead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Right_Idle.png using Guid(c5fa9edf7b2fe7948bfe0aa960ecead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc1e30582e57345186a05dfc2e5a21f') in 0.014995 seconds
+  Import took 0.018466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png
+  artifactKey: Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png using Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d97e514542873d3ba83ed6767da701') in 0.011289 seconds
+  Import took 0.014655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006613 seconds.
+  path: Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png
+  artifactKey: Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/NavigationButton_Up_Hover.png using Guid(54b867cd236a11746af6d88ab19f0b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d97e514542873d3ba83ed6767da701') in 0.013465 seconds
+  Import took 0.016978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70067.296872 seconds.
+  path: Assets/Sprites/StorageCellar/Border.png
+  artifactKey: Guid(b51f2a3528d71284388d5bdfa8e79859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/Border.png using Guid(b51f2a3528d71284388d5bdfa8e79859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c2200e070f735fa5b3373ee089f388') in 0.061997 seconds
+  Import took 0.089133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Sprites/StorageCellar/Inventory Background Var1.png
+  artifactKey: Guid(a9f6ab240e3dd5f4a8e6405a9cf7bb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/Inventory Background Var1.png using Guid(a9f6ab240e3dd5f4a8e6405a9cf7bb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12c41099f3bc099702bba5ff09d9a66') in 0.018918 seconds
+  Import took 0.022113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 885.624563 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Barrel.png
+  artifactKey: Guid(3a5ea2b29e0eb1745aadf5b9b2c2255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Barrel.png using Guid(3a5ea2b29e0eb1745aadf5b9b2c2255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '803b924c5800c290ff95fab6793c1edc') in 0.018492 seconds
+  Import took 0.022479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_BottomCauldron.png
+  artifactKey: Guid(2efddba227a457a42b0d371bd8b1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_BottomCauldron.png using Guid(2efddba227a457a42b0d371bd8b1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a442a07e6c2cfeaa7e4b68235eb4850') in 0.010894 seconds
+  Import took 0.014046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_SpiderWebMiddle.png
+  artifactKey: Guid(84bad5e10516a9e4786a612e11857180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_SpiderWebMiddle.png using Guid(84bad5e10516a9e4786a612e11857180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8f81e7e0a006b3b0e0c1701e0ee808') in 0.014316 seconds
+  Import took 0.017570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_HeartFlask.png
+  artifactKey: Guid(ab3445f66e0abd14e8630707f7a11f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_HeartFlask.png using Guid(ab3445f66e0abd14e8630707f7a11f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e819c1ce67c750087a2e9ac99eeed5') in 0.011502 seconds
+  Import took 0.015238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Holder.png
+  artifactKey: Guid(947166ddd569a034aa709b0464d1833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Holder.png using Guid(947166ddd569a034aa709b0464d1833f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42375aca423d3e644788b594eb1aff21') in 0.013805 seconds
+  Import took 0.017042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_BarrelCork.png
+  artifactKey: Guid(7021fa78512d60c4b8bbcbd147b0e1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_BarrelCork.png using Guid(7021fa78512d60c4b8bbcbd147b0e1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d98c8626259c8cf93809b1f832018f') in 0.012327 seconds
+  Import took 0.015432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_RightShelf.png
+  artifactKey: Guid(1122c19a4a883a84ebb5c848b51d8591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_RightShelf.png using Guid(1122c19a4a883a84ebb5c848b51d8591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846acc43f15c3e4ffe2ddc6d1be78e53') in 0.013849 seconds
+  Import took 0.017155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_OtherShelves.png
+  artifactKey: Guid(4f1b859f854bd9649a2614d15e4333ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_OtherShelves.png using Guid(4f1b859f854bd9649a2614d15e4333ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd923d5835fc28c9eb49538400531c5da') in 0.014217 seconds
+  Import took 0.017402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_OtherStand.png
+  artifactKey: Guid(f924fb089a524bc439c4cb1ebcac4f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_OtherStand.png using Guid(f924fb089a524bc439c4cb1ebcac4f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0af6791011b48a9c9b8ac543a37dc8') in 0.017261 seconds
+  Import took 0.020763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_RandomTube2.png
+  artifactKey: Guid(b9c10c951c2a5d5459f90f7fc7c115d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_RandomTube2.png using Guid(b9c10c951c2a5d5459f90f7fc7c115d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afac5f67fd2206aeff9126a9b264cf49') in 0.013180 seconds
+  Import took 0.016922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_FlaskStopper0.png
+  artifactKey: Guid(a84e42f21fcc62741bb0e4ce57ba7ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_FlaskStopper0.png using Guid(a84e42f21fcc62741bb0e4ce57ba7ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65265325b61779eeaade8d105a1f4268') in 0.012759 seconds
+  Import took 0.016146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_GroundShelf.png
+  artifactKey: Guid(a7c8487623ecb8346a9979503dbb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_GroundShelf.png using Guid(a7c8487623ecb8346a9979503dbb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8015982d7868b32a4dad592fb46b681') in 0.013443 seconds
+  Import took 0.016807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_RandomTube.png
+  artifactKey: Guid(32a8f1f9ed24e494da180aca087bc625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_RandomTube.png using Guid(32a8f1f9ed24e494da180aca087bc625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72eaa03a740e303a491dbd67210ccbd') in 0.013888 seconds
+  Import took 0.017134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Rubble.png
+  artifactKey: Guid(2cb3ae1e3d3e4e043b0fdb9da22a3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Rubble.png using Guid(2cb3ae1e3d3e4e043b0fdb9da22a3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9939c7834ecb5c2b9ad0a02e93c9a1fd') in 0.012478 seconds
+  Import took 0.015620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Candles.png
+  artifactKey: Guid(76aafe06062d3274693fa8ae1bf644f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Candles.png using Guid(76aafe06062d3274693fa8ae1bf644f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc86e8ed2a68251e5b112208e36a62b') in 0.013900 seconds
+  Import took 0.017044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Broken.png
+  artifactKey: Guid(7f5887632ab33f54ebb88ec71e68df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Broken.png using Guid(7f5887632ab33f54ebb88ec71e68df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e710b604b31bcabf2bbe0bc529fbd85e') in 0.015286 seconds
+  Import took 0.018415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Pestle.png
+  artifactKey: Guid(c9b260f831ba4e44aacd953775d741b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Pestle.png using Guid(c9b260f831ba4e44aacd953775d741b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ebd702a3d1e2332db9313a7609c8c4') in 0.013786 seconds
+  Import took 0.016896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Scroll0.png
+  artifactKey: Guid(737b8dd8b08b3cd4cbfa21abd6cbff91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Scroll0.png using Guid(737b8dd8b08b3cd4cbfa21abd6cbff91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9c9270aba5f8133b8fd8fba5af6c45') in 0.012283 seconds
+  Import took 0.015971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_FlaskStopper1.png
+  artifactKey: Guid(8f1f47d052273754fa89daac6995ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_FlaskStopper1.png using Guid(8f1f47d052273754fa89daac6995ad04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af26217599606483cb167d0f74e22f0') in 0.018871 seconds
+  Import took 0.022063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Roots.png
+  artifactKey: Guid(cec7ed79613d3894bbb3ac3c55ea4256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Roots.png using Guid(cec7ed79613d3894bbb3ac3c55ea4256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6116116c682afa7279f79d838e3a80') in 0.012513 seconds
+  Import took 0.015633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_SpareMortar.png
+  artifactKey: Guid(d9b2eb2ecc92ee1468321b2ad6420585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_SpareMortar.png using Guid(d9b2eb2ecc92ee1468321b2ad6420585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8031c54e0bf9555c6fd56500e1be6124') in 0.010525 seconds
+  Import took 0.013553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Scroll2.png
+  artifactKey: Guid(e18b032801d202f49b593931da0d334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Scroll2.png using Guid(e18b032801d202f49b593931da0d334c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa848118cb596a1bdda395d59d0d3a2c') in 0.010808 seconds
+  Import took 0.013760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_RandomTubePiece.png
+  artifactKey: Guid(5f015458591950c4395d4acc74dc69a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_RandomTubePiece.png using Guid(5f015458591950c4395d4acc74dc69a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b686553e9b56d2a16a07ec8bf72eaf') in 0.011012 seconds
+  Import took 0.013980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_SpareDoor.png
+  artifactKey: Guid(5340daa133007ed42bbbff47a1dea2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_SpareDoor.png using Guid(5340daa133007ed42bbbff47a1dea2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09aba94e3616bb82290cf3391180a249') in 0.011029 seconds
+  Import took 0.014100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Scroll1.png
+  artifactKey: Guid(a34092e3d57235e43b0f0462c4e2f6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Scroll1.png using Guid(a34092e3d57235e43b0f0462c4e2f6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf9472a8727f8c81ac4d0610a1a3235') in 0.010743 seconds
+  Import took 0.013782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.516294 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_ActivationHandle.png
+  artifactKey: Guid(6900b7fb73ba46d47a4de424c067fcc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_ActivationHandle.png using Guid(6900b7fb73ba46d47a4de424c067fcc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825316cfca9842be87d545f5d4cbc769') in 0.011380 seconds
+  Import took 0.015279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.168480 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_SpiderWebUnder.png
+  artifactKey: Guid(fbd303a874d445046b0c4503af7c08ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_SpiderWebUnder.png using Guid(fbd303a874d445046b0c4503af7c08ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81791a1814a73568b938aa2254f46b01') in 0.013994 seconds
+  Import took 0.017620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Spoon.png
+  artifactKey: Guid(62a55211471df1a4888f9e0d1f673dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Spoon.png using Guid(62a55211471df1a4888f9e0d1f673dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55e85c079533e2c7249071e6e1dac59') in 0.012303 seconds
+  Import took 0.015477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Topflask.png
+  artifactKey: Guid(9d3df455b6c3f2a4eb92101f1e3c77a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Topflask.png using Guid(9d3df455b6c3f2a4eb92101f1e3c77a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6da3873fa400a88eec273a3b61cf9a') in 0.016064 seconds
+  Import took 0.019328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_Twistingflask.png
+  artifactKey: Guid(5de84e1b5c46a164abd9ef352d7ba94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_Twistingflask.png using Guid(5de84e1b5c46a164abd9ef352d7ba94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58cf68a75483bf6d19ebd62d9c44e0d') in 0.015556 seconds
+  Import took 0.018696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sprites/StorageCellar/StorageCellar_UpperCaudron.png
+  artifactKey: Guid(1fbd57c79fca0644dad98615757e3b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StorageCellar/StorageCellar_UpperCaudron.png using Guid(1fbd57c79fca0644dad98615757e3b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e77154a981f7beafb27d6ed213598e9') in 0.012780 seconds
+  Import took 0.015877 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 18.756200 ms (FindLiveObjects: 0.332800 ms CreateObjectMapping: 0.049300 ms MarkObjects: 18.217600 ms  DeleteObjects: 0.154900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.4 MB.
+System memory in use after: 53.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 26.839100 ms (FindLiveObjects: 0.886400 ms CreateObjectMapping: 0.054000 ms MarkObjects: 25.694300 ms  DeleteObjects: 0.202100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5730.486091 seconds.
+  path: Assets/Prefabs/StorageCellar.prefab
+  artifactKey: Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StorageCellar.prefab using Guid(4c89cbeb5ed3b5c45952aa095714a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25300fd8433373fc3384cc25b842ccd') in 0.151414 seconds
+  Import took 0.164842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.703523 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cacd682ad130360cfec91b3b5d583f45') in 0.020352 seconds
+  Import took 0.024291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.443105 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42d64e570c3ca5b0d8d5ac474e62bae') in 0.006330 seconds
+  Import took 0.010607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.568252 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cab174b568f7de615545cba82a4f19e') in 0.004803 seconds
+  Import took 0.008760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001630 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cab174b568f7de615545cba82a4f19e') in 0.004903 seconds
+  Import took 0.009027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.628576 seconds.
+  path: Assets/Sprites/Garden Earth.png
+  artifactKey: Guid(29f03f1f9d820ee47b6ea9b9548fdafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Garden Earth.png using Guid(29f03f1f9d820ee47b6ea9b9548fdafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9205d74633f79e706b7bf4094ea27c') in 0.015850 seconds
+  Import took 0.019714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.813898 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Down_Hover.png
+  artifactKey: Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Down_Hover.png using Guid(8cbc81811f560804d8bdc6895fc959b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300556d7d85114618a0922efe1323e78') in 0.011554 seconds
+  Import took 0.015270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Up_Idle.png
+  artifactKey: Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Up_Idle.png using Guid(d92258b6d87ab7a49aed8c4dcfd169c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46fa8337bcdd41626664b78493e2a33c') in 0.011239 seconds
+  Import took 0.014666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Left_Idle.png
+  artifactKey: Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Left_Idle.png using Guid(bf7c3696a770b6945b61aae04f5826c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4824b571cc76ea6ddfc570fb5f73fe') in 0.012410 seconds
+  Import took 0.016160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Right_Idle.png
+  artifactKey: Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Right_Idle.png using Guid(f43c2c32e539b724ebd59593e95d9828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45edd650c67b8cdc460c47bb68687094') in 0.016187 seconds
+  Import took 0.019886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Down_Idle.png
+  artifactKey: Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Down_Idle.png using Guid(c7511cb5fb475b341a930d4f31cd7102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982207c7c215a4c331ebb9f67d6fcb9d') in 0.011516 seconds
+  Import took 0.015243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Up_Hover.png
+  artifactKey: Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Up_Hover.png using Guid(a0905d5fb4e1aed4895b32ab6b3b5667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8ab9f4b383ddf6712d1858ecb7f807') in 0.011732 seconds
+  Import took 0.015619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Right_Hover.png
+  artifactKey: Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Right_Hover.png using Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ebb414501bfa58fd1215b03bdc503d') in 0.011699 seconds
+  Import took 0.015487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Left_Hover.png
+  artifactKey: Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Left_Hover.png using Guid(1c87d24eea95b034781c4889e04ec6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab66aadad3dc90a8944b4db5edf67cd') in 0.010525 seconds
+  Import took 0.014666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003649 seconds.
+  path: Assets/Sprites/CustomRooms/NavigationButton_Right_Hover.png
+  artifactKey: Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NavigationButton_Right_Hover.png using Guid(46fee22a360a1ee44a9005be2141d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ebb414501bfa58fd1215b03bdc503d') in 0.015884 seconds
+  Import took 0.019745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.746498 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775fc377d0da86b9a5bbbb91737046be') in 0.005441 seconds
+  Import took 0.009641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006974 seconds.
+  path: Assets/Prefabs/Walls.prefab
+  artifactKey: Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Walls.prefab using Guid(3b2bb043ac7de5a49b167c39b3259a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775fc377d0da86b9a5bbbb91737046be') in 0.005078 seconds
+  Import took 0.009052 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 3.993900 ms (FindLiveObjects: 0.344200 ms CreateObjectMapping: 0.057800 ms MarkObjects: 3.421400 ms  DeleteObjects: 0.168300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4638.531856 seconds.
+  path: Assets/Sprites/CustomRooms/DefaultNavigation
+  artifactKey: Guid(0803cb2770dc18042be4cc57b6cf3cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/DefaultNavigation using Guid(0803cb2770dc18042be4cc57b6cf3cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d117a857473cb7108e390d57026dc4c') in 0.006007 seconds
+  Import took 0.037136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.575367 seconds.
+  path: Assets/Sprites/CustomRooms/DefaultNavigationButtons
+  artifactKey: Guid(0803cb2770dc18042be4cc57b6cf3cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/DefaultNavigationButtons using Guid(0803cb2770dc18042be4cc57b6cf3cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d433980d2552219d53e6c5f5967b07d') in 0.002765 seconds
+  Import took 0.006400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.117405 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons
+  artifactKey: Guid(7c19e3a6dd73e104788b849ef4857b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons using Guid(7c19e3a6dd73e104788b849ef4857b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e73fefdae4bfb4abb782ec9a59a91e6') in 0.002725 seconds
+  Import took 0.006321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.460736 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Hover.png
+  artifactKey: Guid(fb644d03c5721554693b21779bf210c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Hover.png using Guid(fb644d03c5721554693b21779bf210c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7631cc169f554c1dca8ae1ecd26b38') in 0.042955 seconds
+  Import took 0.046944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Hover.png
+  artifactKey: Guid(3ba64ba46351e76458012c24da7ac3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Hover.png using Guid(3ba64ba46351e76458012c24da7ac3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cee4360df56f564d0388e3ad143f72') in 0.014728 seconds
+  Import took 0.018432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Hover.png
+  artifactKey: Guid(9d57747c7d34d1d4ea6941b5afdc6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Hover.png using Guid(9d57747c7d34d1d4ea6941b5afdc6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5798fc1d97e40095a6a2ec43e980e56') in 0.011743 seconds
+  Import took 0.015768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Hover.png
+  artifactKey: Guid(455634bca9c55fb46b788a7a1521d480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Hover.png using Guid(455634bca9c55fb46b788a7a1521d480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b0487889a5a363b6fd3776753bcdca') in 0.011433 seconds
+  Import took 0.015035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Hover.png
+  artifactKey: Guid(10ac23c54a1eb3d46817e2a4108c6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Hover.png using Guid(10ac23c54a1eb3d46817e2a4108c6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23aacc8283a043a8b9634698f5d8ec89') in 0.021371 seconds
+  Import took 0.024678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Idle.png
+  artifactKey: Guid(4783b042ff9aede42813cf6df913341f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Idle.png using Guid(4783b042ff9aede42813cf6df913341f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4650cf522982388a3595cd638dcd7dd7') in 0.014903 seconds
+  Import took 0.018773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Hover.png
+  artifactKey: Guid(0d4c419e0c6bf7645b605d4e5d004f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Hover.png using Guid(0d4c419e0c6bf7645b605d4e5d004f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57b8d7e29fdb678c8c9e7922f758f56') in 0.011748 seconds
+  Import took 0.015506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Idle.png
+  artifactKey: Guid(6e60a636c2726ea4ba34ecf17d96ddb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Idle.png using Guid(6e60a636c2726ea4ba34ecf17d96ddb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a827911eb4a530e43ec91eedfb7b86') in 0.012435 seconds
+  Import took 0.016316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Idle.png
+  artifactKey: Guid(203c8d788092c064abce99aaa99f5631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Idle.png using Guid(203c8d788092c064abce99aaa99f5631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2929d4629efd9af6c8c4d052b0d6d805') in 0.010813 seconds
+  Import took 0.014313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Hover.png
+  artifactKey: Guid(0cd0d1ee46227b7428ab457f759c17e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Hover.png using Guid(0cd0d1ee46227b7428ab457f759c17e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7080259b4fb8391d36596921a00bea27') in 0.019579 seconds
+  Import took 0.022852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Hover.png
+  artifactKey: Guid(0bf6b53aaca485c488a8e1484a064b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Hover.png using Guid(0bf6b53aaca485c488a8e1484a064b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd3627f05ca6092234fd62f8ceea3f7') in 0.012145 seconds
+  Import took 0.015963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Hover.png
+  artifactKey: Guid(17988fb766b38fa4e9dca93cfe764a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Hover.png using Guid(17988fb766b38fa4e9dca93cfe764a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd422935a4c0918ea840430e7a9ba7e2') in 0.011237 seconds
+  Import took 0.014958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Idle.png
+  artifactKey: Guid(f849f4e9c41fcdd48a264b1e2d9de39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Idle.png using Guid(f849f4e9c41fcdd48a264b1e2d9de39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce03e5738ccb4c35c70e8a2af41bfca') in 0.012554 seconds
+  Import took 0.015857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Idle.png
+  artifactKey: Guid(0fa095d428c1fcf408936f8e78c76b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Idle.png using Guid(0fa095d428c1fcf408936f8e78c76b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91ea874277e0e85fe5a687afebda8c7') in 0.012839 seconds
+  Import took 0.016652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Idle.png
+  artifactKey: Guid(835b33ccbbdd1b647aa21ec2fd582fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Idle.png using Guid(835b33ccbbdd1b647aa21ec2fd582fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351901d467c6195799c3f152804acb70') in 0.014918 seconds
+  Import took 0.018877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Idle.png
+  artifactKey: Guid(ad24aa6a34dafa54a97fff0334a9dcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Idle.png using Guid(ad24aa6a34dafa54a97fff0334a9dcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635d6a60028d0dd628fc97e9d406eaeb') in 0.012294 seconds
+  Import took 0.016264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Idle.png
+  artifactKey: Guid(a4964e5c1a388dd4d84c5b0f1ba2c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Idle.png using Guid(a4964e5c1a388dd4d84c5b0f1ba2c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4d34c2efa7d2295cf4b7fa3fbe2508') in 0.017226 seconds
+  Import took 0.020829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Idle.png
+  artifactKey: Guid(fb09b6c0ed3e6984e8d6ecc4336d2d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Idle.png using Guid(fb09b6c0ed3e6984e8d6ecc4336d2d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884f7f4da710f652db0c1028556df6c3') in 0.014170 seconds
+  Import took 0.017468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Idle.png
+  artifactKey: Guid(ad3ad2c347d3e2f44b4a5cf554d2b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Idle.png using Guid(ad3ad2c347d3e2f44b4a5cf554d2b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6654526e240d3b5c3e6a8587ec4b61c') in 0.011881 seconds
+  Import took 0.015902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Idle.png
+  artifactKey: Guid(4a8bae36d4bcbbe4ba45b17bd916ec52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Idle.png using Guid(4a8bae36d4bcbbe4ba45b17bd916ec52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266b109f082ed327456323eb510f2da5') in 0.011092 seconds
+  Import took 0.014882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Idle.png
+  artifactKey: Guid(b1ebb8807c9e68c48b8b921e18bf0c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Idle.png using Guid(b1ebb8807c9e68c48b8b921e18bf0c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22a840aa585ced9edb8902028ee4f15') in 0.013656 seconds
+  Import took 0.017074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Hover.png
+  artifactKey: Guid(fdf5a8b8cb2eedd438c6717ce850e2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Hover.png using Guid(fdf5a8b8cb2eedd438c6717ce850e2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec89eb636aa5c7a64c19825dd0d0b0ea') in 0.012811 seconds
+  Import took 0.016640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Idle.png
+  artifactKey: Guid(8e34e6f1a8b632c4ea03b0bdc448375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Idle.png using Guid(8e34e6f1a8b632c4ea03b0bdc448375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6f905eb8a0723528e5abc31f368ae2') in 0.010543 seconds
+  Import took 0.014145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Hover.png
+  artifactKey: Guid(f332c7ec32b798d43baf58b5195e1d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Hover.png using Guid(f332c7ec32b798d43baf58b5195e1d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f61663460f0800389123de69807ef10') in 0.011248 seconds
+  Import took 0.015057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Hover.png
+  artifactKey: Guid(deb2da825d66b3342922a95d1d263ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Hover.png using Guid(deb2da825d66b3342922a95d1d263ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3583514449c5c9c3ef45483fcb6ccde4') in 0.014236 seconds
+  Import took 0.018080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Hover.png
+  artifactKey: Guid(07849da8fd948ea4f9d556ac9c350fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Hover.png using Guid(07849da8fd948ea4f9d556ac9c350fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a784e1425354336064dfd0972d5dd484') in 0.011071 seconds
+  Import took 0.014568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Idle.png
+  artifactKey: Guid(a4a1c6ab7c59da444aa678d019c452ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Idle.png using Guid(a4a1c6ab7c59da444aa678d019c452ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a3a24a305eaf849f977d5a06c80b89') in 0.011428 seconds
+  Import took 0.015226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Hover.png
+  artifactKey: Guid(c97766dd4b54ae744a4bfc38fb15d407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Hover.png using Guid(c97766dd4b54ae744a4bfc38fb15d407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c36fabda863b1d9c3beec6deb800a2b') in 0.012800 seconds
+  Import took 0.016645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Idle.png
+  artifactKey: Guid(9e7b6ce950afc1f4ba60463c193d1997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Idle.png using Guid(9e7b6ce950afc1f4ba60463c193d1997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c746bb51661728369f1eb494f1576e67') in 0.010125 seconds
+  Import took 0.013993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Hover.png
+  artifactKey: Guid(fad6f1bc78334c647ae86074c83c865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Hover.png using Guid(fad6f1bc78334c647ae86074c83c865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c702eef9a3b3e353b431149b861c42a9') in 0.010849 seconds
+  Import took 0.014519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Hover.png
+  artifactKey: Guid(f47ba24e147cb5444b6f2523ac7ff9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Hover.png using Guid(f47ba24e147cb5444b6f2523ac7ff9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac661b36111140bbd8038f0eea35e98') in 0.010738 seconds
+  Import took 0.014619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Hover.png
+  artifactKey: Guid(3e94fddd7ca72274dbcd6214692c1fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Hover.png using Guid(3e94fddd7ca72274dbcd6214692c1fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba289f027e5e2a4243c0a4f7306a44c') in 0.013767 seconds
+  Import took 0.017656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Hover.png
+  artifactKey: Guid(f381f3c921448eb4293a320475ddec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Hover.png using Guid(f381f3c921448eb4293a320475ddec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f00164d33216fb342533dfef43fc32ed') in 0.012521 seconds
+  Import took 0.016048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Idle.png
+  artifactKey: Guid(b24a2b2867021fe4e99ec2eac2c9adbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Idle.png using Guid(b24a2b2867021fe4e99ec2eac2c9adbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858d2d2c25709e29517a7ae547d12302') in 0.014782 seconds
+  Import took 0.018664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Idle.png
+  artifactKey: Guid(ba4be8650420b724fadae7993a0bd478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Idle.png using Guid(ba4be8650420b724fadae7993a0bd478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462f28d08b51ea28ca182d312e21c3ba') in 0.011304 seconds
+  Import took 0.015511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Hover.png
+  artifactKey: Guid(bbea3e04a9052ca4cbebbd8aafa7dfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Hover.png using Guid(bbea3e04a9052ca4cbebbd8aafa7dfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04263b37c5511c05143824b6465e78e') in 0.012210 seconds
+  Import took 0.016132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Idle.png
+  artifactKey: Guid(be16c075c16cdb44586809fea5a16941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Idle.png using Guid(be16c075c16cdb44586809fea5a16941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5219afb449a7691497fab5c569dbef29') in 0.012772 seconds
+  Import took 0.016570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.756619 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Idle.png
+  artifactKey: Guid(95ddbc60d53399b46affee56aa0e9dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Idle.png using Guid(95ddbc60d53399b46affee56aa0e9dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4b5f6f16850c8f5d52e8dae058160f') in 0.011131 seconds
+  Import took 0.014932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Hover.png
+  artifactKey: Guid(4f0f21e3f1e3c1a4fa982be7677cdee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Hover.png using Guid(4f0f21e3f1e3c1a4fa982be7677cdee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2ac1538649153da2edf039b1978acf') in 0.012427 seconds
+  Import took 0.016133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Idle.png
+  artifactKey: Guid(cba74cd3431e6a445993118d66d5f22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Idle.png using Guid(cba74cd3431e6a445993118d66d5f22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2344c6036dec1a7a1069fb82c8976eec') in 0.013581 seconds
+  Import took 0.016970 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 19.944400 ms (FindLiveObjects: 0.312100 ms CreateObjectMapping: 0.049600 ms MarkObjects: 19.425800 ms  DeleteObjects: 0.155100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.312846 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Hover.png
+  artifactKey: Guid(3e94fddd7ca72274dbcd6214692c1fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Hover.png using Guid(3e94fddd7ca72274dbcd6214692c1fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7064e3d80cf2a926cca29a7cb7d93f4d') in 0.018128 seconds
+  Import took 0.022019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001497 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Hover.png
+  artifactKey: Guid(fb644d03c5721554693b21779bf210c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Hover.png using Guid(fb644d03c5721554693b21779bf210c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74cbb0a2e200a733ec444089adab5c2') in 0.014265 seconds
+  Import took 0.018129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Hover.png
+  artifactKey: Guid(3ba64ba46351e76458012c24da7ac3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Hover.png using Guid(3ba64ba46351e76458012c24da7ac3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc756cf1c0ab2e400dd832494a03413') in 0.011512 seconds
+  Import took 0.015244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Hover.png
+  artifactKey: Guid(9d57747c7d34d1d4ea6941b5afdc6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Hover.png using Guid(9d57747c7d34d1d4ea6941b5afdc6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc9756d654c3f21d7df584f78e2e6a3') in 0.014138 seconds
+  Import took 0.018018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Hover.png
+  artifactKey: Guid(455634bca9c55fb46b788a7a1521d480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Hover.png using Guid(455634bca9c55fb46b788a7a1521d480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a223e924c1272052c80eee96591962') in 0.010213 seconds
+  Import took 0.014095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Hover.png
+  artifactKey: Guid(10ac23c54a1eb3d46817e2a4108c6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Hover.png using Guid(10ac23c54a1eb3d46817e2a4108c6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dd93d4c22970b648d43723f882dc6f') in 0.015732 seconds
+  Import took 0.019698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Idle.png
+  artifactKey: Guid(4783b042ff9aede42813cf6df913341f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Idle.png using Guid(4783b042ff9aede42813cf6df913341f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0beb7a6cd84e856c5b90e7cd1e32e9ca') in 0.013038 seconds
+  Import took 0.017352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Hover.png
+  artifactKey: Guid(0d4c419e0c6bf7645b605d4e5d004f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Hover.png using Guid(0d4c419e0c6bf7645b605d4e5d004f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae93e4ed4e12cae941b9ccaab75eceea') in 0.014047 seconds
+  Import took 0.018031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Idle.png
+  artifactKey: Guid(6e60a636c2726ea4ba34ecf17d96ddb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Idle.png using Guid(6e60a636c2726ea4ba34ecf17d96ddb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a015b0dcf2be19540654ecaf5e33851') in 0.012768 seconds
+  Import took 0.016702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Idle.png
+  artifactKey: Guid(203c8d788092c064abce99aaa99f5631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Idle.png using Guid(203c8d788092c064abce99aaa99f5631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade50c5cdc0fda7bb5bb3fe425eabcf0') in 0.016528 seconds
+  Import took 0.020144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Hover.png
+  artifactKey: Guid(0cd0d1ee46227b7428ab457f759c17e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Hover.png using Guid(0cd0d1ee46227b7428ab457f759c17e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4d6b2a5f20053912034c4040a13996') in 0.011166 seconds
+  Import took 0.014399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Hover.png
+  artifactKey: Guid(0bf6b53aaca485c488a8e1484a064b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Hover.png using Guid(0bf6b53aaca485c488a8e1484a064b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959528e048016dc1a3ba681289f73b39') in 0.010944 seconds
+  Import took 0.014812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Hover.png
+  artifactKey: Guid(17988fb766b38fa4e9dca93cfe764a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Hover.png using Guid(17988fb766b38fa4e9dca93cfe764a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018a03b17565f9a27495c6cd61a1c8a0') in 0.015533 seconds
+  Import took 0.018858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Idle.png
+  artifactKey: Guid(f849f4e9c41fcdd48a264b1e2d9de39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Idle.png using Guid(f849f4e9c41fcdd48a264b1e2d9de39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65f50abe84836a55713dbd1e05c344f') in 0.012842 seconds
+  Import took 0.016338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Idle.png
+  artifactKey: Guid(0fa095d428c1fcf408936f8e78c76b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Idle.png using Guid(0fa095d428c1fcf408936f8e78c76b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57792c76332d7753396fe1093d183d1') in 0.011574 seconds
+  Import took 0.015317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Idle.png
+  artifactKey: Guid(835b33ccbbdd1b647aa21ec2fd582fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Idle.png using Guid(835b33ccbbdd1b647aa21ec2fd582fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c883117e696eb4065b6af06c7d3c4062') in 0.012541 seconds
+  Import took 0.016450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Idle.png
+  artifactKey: Guid(ad24aa6a34dafa54a97fff0334a9dcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Idle.png using Guid(ad24aa6a34dafa54a97fff0334a9dcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14cee25f3f1afa194cb2f4fd7daa0a26') in 0.010007 seconds
+  Import took 0.013852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Idle.png
+  artifactKey: Guid(a4964e5c1a388dd4d84c5b0f1ba2c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Idle.png using Guid(a4964e5c1a388dd4d84c5b0f1ba2c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b653a130a6e24a2619078db151bb5f') in 0.010602 seconds
+  Import took 0.014356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Idle.png
+  artifactKey: Guid(fb09b6c0ed3e6984e8d6ecc4336d2d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Idle.png using Guid(fb09b6c0ed3e6984e8d6ecc4336d2d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc9034cc7ccff0c5776257321d5a7a5') in 0.012334 seconds
+  Import took 0.016006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Idle.png
+  artifactKey: Guid(ad3ad2c347d3e2f44b4a5cf554d2b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Idle.png using Guid(ad3ad2c347d3e2f44b4a5cf554d2b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56edce25850ab1ce2ae0f27888e0fb41') in 0.009928 seconds
+  Import took 0.013852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Idle.png
+  artifactKey: Guid(4a8bae36d4bcbbe4ba45b17bd916ec52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Idle.png using Guid(4a8bae36d4bcbbe4ba45b17bd916ec52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ddeeb975574b47df2ec5e43b988673') in 0.016104 seconds
+  Import took 0.020254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Idle.png
+  artifactKey: Guid(b1ebb8807c9e68c48b8b921e18bf0c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Idle.png using Guid(b1ebb8807c9e68c48b8b921e18bf0c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f359ddcd120fb8f9977e0ec661e96d82') in 0.014491 seconds
+  Import took 0.018472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Hover.png
+  artifactKey: Guid(fdf5a8b8cb2eedd438c6717ce850e2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Hover.png using Guid(fdf5a8b8cb2eedd438c6717ce850e2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bda3f3e8d7ee5ab349b698f72eb405') in 0.011682 seconds
+  Import took 0.015607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Idle.png
+  artifactKey: Guid(8e34e6f1a8b632c4ea03b0bdc448375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Idle.png using Guid(8e34e6f1a8b632c4ea03b0bdc448375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446ebcc21c1dd798a6dc452a56b23256') in 0.011479 seconds
+  Import took 0.014947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Hover.png
+  artifactKey: Guid(f332c7ec32b798d43baf58b5195e1d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Hover.png using Guid(f332c7ec32b798d43baf58b5195e1d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9007a9df2f85747def3be2249db57ef7') in 0.011978 seconds
+  Import took 0.015750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Hover.png
+  artifactKey: Guid(deb2da825d66b3342922a95d1d263ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Hover.png using Guid(deb2da825d66b3342922a95d1d263ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adfafa810261c3977d483001e7560c9') in 0.013126 seconds
+  Import took 0.017070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Hover.png
+  artifactKey: Guid(07849da8fd948ea4f9d556ac9c350fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Hover.png using Guid(07849da8fd948ea4f9d556ac9c350fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e541c7cff63dd997d045785a9ae2d41b') in 0.015720 seconds
+  Import took 0.019551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Idle.png
+  artifactKey: Guid(a4a1c6ab7c59da444aa678d019c452ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Idle.png using Guid(a4a1c6ab7c59da444aa678d019c452ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6168fded4238783e04f9dcfc03b1aa9') in 0.011649 seconds
+  Import took 0.015133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Hover.png
+  artifactKey: Guid(c97766dd4b54ae744a4bfc38fb15d407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Hover.png using Guid(c97766dd4b54ae744a4bfc38fb15d407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f930baebe26c8ba4afc7e12d6fe549') in 0.010359 seconds
+  Import took 0.014046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Idle.png
+  artifactKey: Guid(9e7b6ce950afc1f4ba60463c193d1997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Idle.png using Guid(9e7b6ce950afc1f4ba60463c193d1997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af13afc60c85c27295ad6ca16ac3c6d') in 0.008893 seconds
+  Import took 0.012279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Hover.png
+  artifactKey: Guid(fad6f1bc78334c647ae86074c83c865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Hover.png using Guid(fad6f1bc78334c647ae86074c83c865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ba3d53c4fd2ea4d81c16300b588a27') in 0.010007 seconds
+  Import took 0.013611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Hover.png
+  artifactKey: Guid(f47ba24e147cb5444b6f2523ac7ff9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Hover.png using Guid(f47ba24e147cb5444b6f2523ac7ff9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cabc61563143050e44fadca4ffd20f8') in 0.010126 seconds
+  Import took 0.014133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Hover.png
+  artifactKey: Guid(f381f3c921448eb4293a320475ddec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Hover.png using Guid(f381f3c921448eb4293a320475ddec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acb44d861a7426fbbeeb6d1c3c98bb2') in 0.013597 seconds
+  Import took 0.017340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Idle.png
+  artifactKey: Guid(b24a2b2867021fe4e99ec2eac2c9adbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Idle.png using Guid(b24a2b2867021fe4e99ec2eac2c9adbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b717b3397c40efffcaf3abf981800eca') in 0.010217 seconds
+  Import took 0.014132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Idle.png
+  artifactKey: Guid(ba4be8650420b724fadae7993a0bd478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Idle.png using Guid(ba4be8650420b724fadae7993a0bd478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a6a7fe554f43ef316bb939d972d6d3') in 0.011126 seconds
+  Import took 0.014700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Hover.png
+  artifactKey: Guid(bbea3e04a9052ca4cbebbd8aafa7dfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Hover.png using Guid(bbea3e04a9052ca4cbebbd8aafa7dfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7c7350f5c4e98afc53d542623f95d8') in 0.011147 seconds
+  Import took 0.014768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Idle.png
+  artifactKey: Guid(be16c075c16cdb44586809fea5a16941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Idle.png using Guid(be16c075c16cdb44586809fea5a16941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30918a104653e32099b279cd8c97e49e') in 0.015944 seconds
+  Import took 0.020260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3863.531869 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a276bfe1a8cbeea2c89852a4ad7a997') in 0.020653 seconds
+  Import took 0.050196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.742989 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f71cbb1dde5809f91fd823e5bef7e3') in 0.003186 seconds
+  Import took 0.006749 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 22.489500 ms (FindLiveObjects: 0.289700 ms CreateObjectMapping: 0.048300 ms MarkObjects: 21.983600 ms  DeleteObjects: 0.166200 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 3.097500 ms (FindLiveObjects: 0.305900 ms CreateObjectMapping: 0.051700 ms MarkObjects: 2.598800 ms  DeleteObjects: 0.139800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.8 MB.
+System memory in use after: 53.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 2.915700 ms (FindLiveObjects: 0.288900 ms CreateObjectMapping: 0.050000 ms MarkObjects: 2.446000 ms  DeleteObjects: 0.129700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 3.340000 ms (FindLiveObjects: 0.301100 ms CreateObjectMapping: 0.054000 ms MarkObjects: 2.851000 ms  DeleteObjects: 0.132800 ms)
+

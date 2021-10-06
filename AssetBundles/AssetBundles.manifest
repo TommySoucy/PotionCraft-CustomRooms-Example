@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3649711908
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: storagecellar
+      Dependencies: {}
+    Info_1:
+      Name: customrooms
+      Dependencies: {}

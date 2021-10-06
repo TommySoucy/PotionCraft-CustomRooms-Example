@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3218429646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f91baaf44e174d34cc2daf1182ac1fda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 399cf71c45e67444fcd04342a15cd220
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Hover.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Down_Hover.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Left_Idle.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Left_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Hover.png
+- Assets/Prefabs/Walls.prefab
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Up_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Hover.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Up_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Down_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Left_Idle.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Up_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Right_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Up_Hover.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Left_Idle.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Down_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Right_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Right_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Right_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Left_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Left_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Garden_Up_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Up_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Bedroom_Down_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Down_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Lab_Up_Idle.png
+- Assets/Sprites/CustomRooms/DefaultNavigationButtons/NavigationButton_Right_Hover.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Basement_Down_Idle.png
+- Assets/Sprites/CustomRooms/NewVanillaNavigationButtons/NavigationButton_Meeting_Left_Idle.png
+Dependencies: []

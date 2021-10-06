@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 745185136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f529ac9c96bc4ec53209f2d4998d0d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/NavigationButton_Right_Idle.png
+- Assets/Sprites/NavigationButton_Up_Hover.png
+- Assets/Sprites/NavigationButton_Down_Idle.png
+- Assets/Sprites/NavigationButton_Left_Hover.png
+- Assets/Sprites/NavigationButton_Left_Idle.png
+- Assets/Sprites/NavigationButton_Down_Hover.png
+- Assets/Sprites/NavigationButton_Up_Idle.png
+- Assets/Sprites/NavigationButton_Right_Hover.png
+Dependencies: []

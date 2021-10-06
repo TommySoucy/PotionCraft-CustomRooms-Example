@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2689379086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39d21b80b39d3c550c23bd4923f30019
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c400e77ab27cb1714a04659682ec573c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Cellar.unity
+Dependencies: []
